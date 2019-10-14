@@ -7,3 +7,7 @@ Origin puzzle is [here](https://storage.googleapis.com/ingress-internal-event-da
 ## Answer
 this answer is generate by execute `node solve.js` command with [Node.js](https://nodejs.org/en/)
 
+| # | random | word | passcode | checked |
+| - | ------ | ---- | -------- | ------- |
+| 0 | azpmgdpoje | strict | azpmgdpojestrict | v |
+
