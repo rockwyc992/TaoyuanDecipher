@@ -32,4 +32,25 @@ this answer is generate by execute `node solve.js` command with [Node.js](https:
 | 20 | nbuenonezq | costume | nbuenonezqcostume |   |
 | 21 | oeodgbcdil | ballade | oeodgbcdilballade | v |
 | 22 | valpkxbucf | filbert | valpkxbucffilbert | v |
+| 23 | vhjvfmsnll | nobility | vhjvfmsnllnobility | v |
+| 24 | pzqrizlnoa | reeled | pzqrizlnoareeled | v |
+| 25 | mdnoumdcoe | elizabeth | mdnoumdcoeelizabeth | v |
+| 26 | vaenxyukvz | tretule | vaenxyukvztretule |   |
+| 27 | todo |  | todo |   |
+| 28 | todo |  | todo |   |
+| 29 | todo |  | todo |   |
+| 30 | todo |  | todo |   |
+| 31 | todo |  | todo |   |
+| 32 | todo |  | todo |   |
+| 33 | bzddmdwtoz | terribly | bzddmdwtozterribly | v |
+| 34 | todo |  | todo |   |
+| 35 | todo |  | todo |   |
+| 36 | todo |  | todo |   |
+| 37 | xgkgwuqtvk | fuming | xgkgwuqtvkfuming |   |
+| 38 | todo |  | todo |   |
+| 39 | todo |  | todo |   |
+| 40 | todo |  | todo |   |
+| 41 | todo |  | todo |   |
+| 42 | fflalcapen | inaccessible | fflalcapeninaccessible |   |
+| 43 | pvfhasniwu | talkative | pvfhasniwutalkative |   |
 

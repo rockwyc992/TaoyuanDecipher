@@ -26,4 +26,25 @@ lib.print(19, 'v', lib.str2alpha,        '14 16 10 13 24 21 2 2 12 9 16 15 16 16
 lib.print(20, ' ', lib.caesar2alpha,     'aohrabarmdpbfghzr', '');
 lib.print(21, 'v', lib.roman2alpha,      'XV V XV IV VII II III IV IX XII II I XII XII I IV V');
 lib.print(22, 'v', lib.roman2alpha,      'XXII I XII XVI XI XXIV II XXI III VI VI IX XII II V XVIII XX');
+lib.print(23, 'v', lib.str2alpha,        '22 8 10 22 6 13 19 14 12 12 14 15 2 9 12 9 20 25');
+lib.print(24, 'v', lib.str2alpha,        '16 26 17 18 9 26 12 14 15 1 18 5 5 12 5 4');
+lib.print(25, 'v', lib.str2alpha,        '13 4 14 15 21 13 4 3 15 5 5 12 9 26 1 2 5 20 8');
+lib.print(26, ' ', lib.caesar2alpha,     'inraklhximgerghyr', '');
+lib.print(27, ' ', x => x, 'todo');
+lib.print(28, ' ', x => x, 'todo');
+lib.print(29, ' ', x => x, 'todo');
+lib.print(30, ' ', x => x, 'todo');
+lib.print(31, ' ', x => x, 'todo');
+lib.print(32, ' ', x => x, 'todo');
+lib.print(33, 'v', lib.roman2alpha,      'II XXVI IV IV XIII IV XXIII XX XV XXVI XX V XVIII XVIII IX II XII XXV');
+lib.print(34, ' ', x => x, 'todo');
+lib.print(35, ' ', x => x, 'todo');
+lib.print(36, ' ', x => x, 'todo');
+lib.print(37, ' ', lib.caesar2alpha,     'ktxtjhdgixshzvat', '');
+lib.print(38, ' ', x => x, 'todo');
+lib.print(39, ' ', x => x, 'todo');
+lib.print(40, ' ', x => x, 'todo');
+lib.print(41, ' ', x => x, 'todo');
+lib.print(42, ' ', lib.str2alpha,        '6 6 12 1 12 3 1 16 5 14 9 14 1 3 3 5 19 19 9 2 12 5');
+lib.print(43, ' ', lib.phone2alpha,      '7 888 333 44 2 7777 66 444 9 88 8 2 555 55 2 8 444 888 33');
 
