@@ -7,50 +7,68 @@ Origin puzzle is [here](https://storage.googleapis.com/ingress-internal-event-da
 ## Answer
 this answer is generate by execute `node solve.js` command with [Node.js](https://nodejs.org/en/)
 
-| # | random | word | passcode | checked |
-| - | ------ | ---- | -------- | ------- |
-| 0 | azpmgdpoje | strict | azpmgdpojestrict | v |
-| 1 | diwgvjuppj | shackled | diwgvjuppjshackled |   |
-| 2 | rdjutfnamc | setting | rdjutfnamcsetting |   |
-| 3 | cydrxoqwur | mechanism | cydrxoqwurmechanism | v |
-| 4 | cgguuzprzy | degas | cgguuzprzydegas |   |
-| 5 | wphdzvfbvg | nitpick | wphdzvfbvgnitpick | v |
-| 6 | bulaxdndpc | ministry | bulaxdndpcministry | v |
-| 7 | ehkjuklfli | naked | ehkjuklflinaked | v |
-| 8 | cnvunkomvg | conception | cnvunkomvgconception |   |
-| 9 | todo |  | todo |   |
-| 10 | mesnjryscl | inanely | mesnjrysclinanely |   |
-| 11 | pujjnxuobb | deejay | pujjnxuobbdeejay |   |
-| 12 | rdzdxrwxhn | harmless | rdzdxrwxhnharmless |   |
-| 13 | xfkduxhipc | novel | xfkduxhipcnovel | v |
-| 14 | umybosilkf | warehouseman | umybosilkfwarehouseman |   |
-| 15 | eilgpzislx | euphony | eilgpzislxeuphony |   |
-| 16 | todo |  | todo |   |
-| 17 | uczrlskhha | cummerbund | uczrlskhhacummerbund | v |
-| 18 | wmvqjyqxpg | knittimg | wmvqjyqxpgknittimg |   |
-| 19 | npjmxubbli | poppies | npjmxubblipoppies | v |
-| 20 | nbuenonezq | costume | nbuenonezqcostume |   |
-| 21 | oeodgbcdil | ballade | oeodgbcdilballade | v |
-| 22 | valpkxbucf | filbert | valpkxbucffilbert | v |
-| 23 | vhjvfmsnll | nobility | vhjvfmsnllnobility | v |
-| 24 | pzqrizlnoa | reeled | pzqrizlnoareeled | v |
-| 25 | mdnoumdcoe | elizabeth | mdnoumdcoeelizabeth | v |
-| 26 | vaenxyukvz | tretule | vaenxyukvztretule |   |
-| 27 | todo |  | todo |   |
-| 28 | todo |  | todo |   |
-| 29 | todo |  | todo |   |
-| 30 | todo |  | todo |   |
-| 31 | todo |  | todo |   |
-| 32 | todo |  | todo |   |
-| 33 | bzddmdwtoz | terribly | bzddmdwtozterribly | v |
-| 34 | todo |  | todo |   |
-| 35 | todo |  | todo |   |
-| 36 | todo |  | todo |   |
-| 37 | xgkgwuqtvk | fuming | xgkgwuqtvkfuming |   |
-| 38 | todo |  | todo |   |
-| 39 | todo |  | todo |   |
-| 40 | todo |  | todo |   |
-| 41 | todo |  | todo |   |
-| 42 | fflalcapen | inaccessible | fflalcapeninaccessible |   |
-| 43 | pvfhasniwu | talkative | pvfhasniwutalkative |   |
+|  # |   random   |     word      |         passcode        | checked |
+| -- | ---------- | ------------- | ----------------------- | ------- |
+|  0 | azpmgdpoje | strict        | azpmgdpojestrict        | v |
+|  1 | diwgvjuppj | shackled      | diwgvjuppjshackled      | v |
+|  2 | rdjutfnamc | setting       | rdjutfnamcsetting       | v |
+|  3 | cydrxoqwur | mechanism     | cydrxoqwurmechanism     | v |
+|  4 | cgguuzprzy | degas         | cgguuzprzydegas         | v |
+|  5 | wphdzvfbvg | nitpick       | wphdzvfbvgnitpick       | v |
+|  6 | bulaxdndpc | ministry      | bulaxdndpcministry      | v |
+|  7 | ehkjuklfli | naked         | ehkjuklflinaked         | v |
+|  8 | cnvunkomvg | conception    | cnvunkomvgconception    | v |
+|  9 | todo       |               | todo                    |   |
+| 10 | mesnjryscl | inanely       | mesnjrysclinanely       | v |
+| 11 | pujjnxuobb | deejay        | pujjnxuobbdeejay        | v |
+| 12 | rdzdxrwxhn | harmless      | rdzdxrwxhnharmless      | v |
+| 13 | xfkduxhipc | novel         | xfkduxhipcnovel         | v |
+| 14 | umybosilkf | warehouseman  | umybosilkfwarehouseman  | v |
+| 15 | eilgpzislx | euphony       | eilgpzislxeuphony       | v |
+| 16 | todo       |               | todo                    |   |
+| 17 | uczrlskhha | cummerbund    | uczrlskhhacummerbund    | v |
+| 18 | wmvqjyqxpg | knittimg      | wmvqjyqxpgknittimg      |   |
+| 19 | npjmxubbli | poppies       | npjmxubblipoppies       | v |
+| 20 | nbuenonezq | costume       | nbuenonezqcostume       | v |
+| 21 | oeodgbcdil | ballade       | oeodgbcdilballade       | v |
+| 22 | valpkxbucf | filbert       | valpkxbucffilbert       | v |
+| 23 | vhjvfmsnll | nobility      | vhjvfmsnllnobility      | v |
+| 24 | pzqrizlnoa | reeled        | pzqrizlnoareeled        | v |
+| 25 | mdnoumdcoe | elizabeth     | mdnoumdcoeelizabeth     | v |
+| 26 | vaenxyukvz | tretule       | vaenxyukvztretule       |   |
+| 27 | todo       |               | todo                    |   |
+| 28 | todo       |               | todo                    |   |
+| 29 | todo       |               | todo                    |   |
+| 30 | todo       |               | todo                    |   |
+| 31 | todo       |               | todo                    |   |
+| 32 | todo       |               | todo                    |   |
+| 33 | bzddmdwtoz | terribly      | bzddmdwtozterribly      | v |
+| 34 | todo       |               | todo                    |   |
+| 35 | todo       |               | todo                    |   |
+| 36 | todo       |               | todo                    |   |
+| 37 | xgkgwuqtvk | fuming        | xgkgwuqtvkfuming        |   |
+| 38 | todo       |               | todo                    |   |
+| 39 | todo       |               | todo                    |   |
+| 40 | todo       |               | todo                    |   |
+| 41 | todo       |               | todo                    |   |
+| 42 | fflalcapen | inaccessible  | fflalcapeninaccessible  |   |
+| 43 | pvfhasniwu | talkative     | pvfhasniwutalkative     |   |
+| 44 | todo       |               | todo                    |   |
+| 45 | todo       |               | todo                    |   |
+| 46 | todo       |               | todo                    |   |
+| 47 | mgtibxvuws | levee         | mgtibxvuwslevee         |   |
+| 48 | todo       |               | todo                    |   |
+| 49 | todo       |               | todo                    |   |
+| 50 | todo       |               | todo                    |   |
+| 51 | todo       |               | todo                    |   |
+| 52 | fmrbhovssq | apollo        | fmrbhovssqapollo        |   |
+| 53 | oscogswdzc | miscellaneous | oscogswdzcmiscellaneous |   |
+| 54 | ovnmjsgivl | sugarplum     | ovnmjsgivlsugarplum     |   |
+| 55 | rdtkuincuv | oblivious     | rdtkuincuvoblivious     |   |
+| 56 | ptdnwmepho | assisted      | ptdnwmephoassisted      |   |
+| 57 | todo       |               | todo                    |   |
+| 58 | havikmwnxe | leading       | havikmwnxeleading       |   |
+| 59 | todo       |               | todo                    |   |
+| 60 | gqjlmpvxif | springy       | gqjlmpvxifspringy       |   |
+
 
