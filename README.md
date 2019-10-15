@@ -27,7 +27,7 @@ this answer is generate by execute `node solve.js` command with [Node.js](https:
 | 15 | eilgpzislx | euphony       | eilgpzislxeuphony       | v |
 | 16 | todo       |               | todo                    |   |
 | 17 | uczrlskhha | cummerbund    | uczrlskhhacummerbund    | v |
-| 18 | wmvqjyqxpg | knittimg      | wmvqjyqxpgknittimg      |   |
+| 18 | wmvqjyqxpg | knitting      | wmvqjyqxpgknitting      | v |
 | 19 | npjmxubbli | poppies       | npjmxubblipoppies       | v |
 | 20 | nbuenonezq | costume       | nbuenonezqcostume       | v |
 | 21 | oeodgbcdil | ballade       | oeodgbcdilballade       | v |
@@ -35,7 +35,7 @@ this answer is generate by execute `node solve.js` command with [Node.js](https:
 | 23 | vhjvfmsnll | nobility      | vhjvfmsnllnobility      | v |
 | 24 | pzqrizlnoa | reeled        | pzqrizlnoareeled        | v |
 | 25 | mdnoumdcoe | elizabeth     | mdnoumdcoeelizabeth     | v |
-| 26 | vaenxyukvz | tretule       | vaenxyukvztretule       |   |
+| 26 | vaenxyukvz | trestle       | vaenxyukvztrestle       | v |
 | 27 | todo       |               | todo                    |   |
 | 28 | todo       |               | todo                    |   |
 | 29 | todo       |               | todo                    |   |
