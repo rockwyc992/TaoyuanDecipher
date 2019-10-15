@@ -54,8 +54,13 @@ exports.roman2alpha = (x) =>
     exports.num2alpha(exports.roman2num(x));
 
 exports.phone2alpha = (str) => {
-    const phone_code = '____ abc def ghi jkl mno pqrs tuv wxyz'.split(' ');
-    return phone_code[parseInt(str[0])-1][str.length-1];
+    const phone_code = '____ ____ abc_ def_ ghi_ jkl_ mno_ pqrs tuv_ wxyz'.split(' ');
+    return phone_code[parseInt(str[0])][str.length-1];
+};
+
+exports.qwert2alpha = (str) => {
+    const qwert_code = 'p__ qaz wsx edc rfv tgb yhn ujm ik_ ol_'.split(' ');
+    return qwert_code[parseInt(str[0])][str.length-1];
 };
 
 exports.caesar2alpha = (caesar) => {

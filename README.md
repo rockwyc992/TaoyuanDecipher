@@ -12,11 +12,11 @@ this answer is generate by execute `node solve.js` command with [Node.js](https:
 | 0 | azpmgdpoje | strict | azpmgdpojestrict | v |
 | 1 | diwgvjuppj | shackled | diwgvjuppjshackled |   |
 | 2 | rdjutfnamc | setting | rdjutfnamcsetting |   |
-| 3 | cydrxoqwur | mechanism | cydrxoqwurmechanism | x |
+| 3 | cydrxoqwur | mechanism | cydrxoqwurmechanism | v |
 | 4 | cgguuzprzy | degas | cgguuzprzydegas |   |
 | 5 | wphdzvfbvg | nitpick | wphdzvfbvgnitpick | v |
 | 6 | bulaxdndpc | ministry | bulaxdndpcministry | v |
-| 7 | dnuqpuxhxt | o_ude | dnuqpuxhxto_ude |   |
+| 7 | ehkjuklfli | naked | ehkjuklflinaked | v |
 | 8 | cnvunkomvg | conception | cnvunkomvgconception |   |
 | 9 | todo |  | todo |   |
 | 10 | mesnjryscl | inanely | mesnjrysclinanely |   |
@@ -26,7 +26,7 @@ this answer is generate by execute `node solve.js` command with [Node.js](https:
 | 14 | umybosilkf | warehouseman | umybosilkfwarehouseman |   |
 | 15 | eilgpzislx | euphony | eilgpzislxeuphony |   |
 | 16 | todo |  | todo |   |
-| 17 | pf_gxbunn_ | fprrdglpoe | pf_gxbunn_fprrdglpoe |   |
+| 17 | uczrlskhha | cummerbund | uczrlskhhacummerbund | v |
 | 18 | wmvqjyqxpg | knittimg | wmvqjyqxpgknittimg |   |
 | 19 | npjmxubbli | poppies | npjmxubblipoppies | v |
 | 20 | nbuenonezq | costume | nbuenonezqcostume |   |
