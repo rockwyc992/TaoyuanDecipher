@@ -46,29 +46,40 @@ this answer is generate by execute `node solve.js` command with [Node.js](https:
 | 34 | todo       |               | todo                    |   |
 | 35 | todo       |               | todo                    |   |
 | 36 | todo       |               | todo                    |   |
-| 37 | xgkgwuqtvk | fuming        | xgkgwuqtvkfuming        |   |
+| 37 | xgkgwuqtvk | fuming        | xgkgwuqtvkfuming        | v |
 | 38 | todo       |               | todo                    |   |
 | 39 | todo       |               | todo                    |   |
 | 40 | todo       |               | todo                    |   |
 | 41 | todo       |               | todo                    |   |
-| 42 | fflalcapen | inaccessible  | fflalcapeninaccessible  |   |
-| 43 | pvfhasniwu | talkative     | pvfhasniwutalkative     |   |
+| 42 | fflalcapen | inaccessible  | fflalcapeninaccessible  | v |
+| 43 | pvfhasniwu | talkative     | pvfhasniwutalkative     | v |
 | 44 | todo       |               | todo                    |   |
 | 45 | todo       |               | todo                    |   |
 | 46 | todo       |               | todo                    |   |
-| 47 | mgtibxvuws | levee         | mgtibxvuwslevee         |   |
+| 47 | mgtibxvuws | levee         | mgtibxvuwslevee         | v |
 | 48 | todo       |               | todo                    |   |
 | 49 | todo       |               | todo                    |   |
 | 50 | todo       |               | todo                    |   |
 | 51 | todo       |               | todo                    |   |
-| 52 | fmrbhovssq | apollo        | fmrbhovssqapollo        |   |
-| 53 | oscogswdzc | miscellaneous | oscogswdzcmiscellaneous |   |
-| 54 | ovnmjsgivl | sugarplum     | ovnmjsgivlsugarplum     |   |
-| 55 | rdtkuincuv | oblivious     | rdtkuincuvoblivious     |   |
-| 56 | ptdnwmepho | assisted      | ptdnwmephoassisted      |   |
+| 52 | fmrbhovssq | apollo        | fmrbhovssqapollo        | v |
+| 53 | oscogswdzc | miscellaneous | oscogswdzcmiscellaneous | v |
+| 54 | ovnmjsgivl | sugarplum     | ovnmjsgivlsugarplum     | v |
+| 55 | rdtkuincuv | oblivious     | rdtkuincuvoblivious     | v |
+| 56 | ptdnwmepho | assisted      | ptdnwmephoassisted      | v |
 | 57 | todo       |               | todo                    |   |
-| 58 | havikmwnxe | leading       | havikmwnxeleading       |   |
+| 58 | havikmwnxe | leading       | havikmwnxeleading       | v |
 | 59 | todo       |               | todo                    |   |
-| 60 | gqjlmpvxif | springy       | gqjlmpvxifspringy       |   |
+| 60 | gqjlmpvxif | springy       | gqjlmpvxifspringy       | v |
+| 61 | todo       |               | todo                    |   |
+| 62 | iazkltqocp | ditch         | iazkltqocpditch         | v |
+| 63 | todo       |               | todo                    |   |
+| 64 | todo       |               | todo                    |   |
+| 65 | todo       |               | todo                    |   |
+| 66 | daeqltthmd | kilowatts     | daeqltthmdkilowatts     | v |
+| 67 | todo       |               | todo                    |   |
+| 68 | todo       |               | todo                    |   |
+| 69 | hpflxosuje | insane        | hpflxosujeinsane        | v |
+| 70 | xdpldsjgux | galaxies      | xdpldsjguxgalaxies      | v |
+
 
 
