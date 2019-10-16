@@ -1,7 +1,7 @@
 const lib = require('./lib.js');
 
 console.log('| # | random | word | passcode | checked |');
-console.log('| - | ------ | ---- | -------- | ------- |');
+console.log('| -- | ---------- | ------------- | ----------------------- | ------- |');
 
 lib.print( 0, 'v', lib.roman2alpha,      'I XXVI XVI XIII VII IV XVI XV X V XIX XX XVIII IX III XX');
 lib.print( 1, 'v', lib.phone2alpha,      '3 444 9 4 888 5 88 7 7 5 7777 44 2 222 55 555 33 3');
@@ -74,4 +74,14 @@ lib.print(67, ' ', x => x, 'todo');
 lib.print(68, ' ', x => x, 'todo');
 lib.print(69, 'v', lib.phone2alpha,      '44 7 333 555 99 666 7777 88 5 33 444 66 7777 2 66 33');
 lib.print(70, 'v', lib.qwert2alpha,      '222 33 0 99 33 22 77 55 7 222 55 11 99 11 222 8 3 22');
+lib.print(71, ' ', x => x, 'todo');
+lib.print(72, ' ', x => x, 'todo');
+lib.print(73, ' ', x => x, 'todo');
+lib.print(74, ' ', x => x, 'todo');
+lib.print(75, ' ', x => x, 'todo');
+lib.print(76, ' ', x => x, 'todo');
+lib.print(77, 'v', lib.roman2alpha,      'XIII V XXII XXVI VI V XIX XX XXII XV XII XV VI XX XXV');
+lib.print(78, 'v', lib.roman2alpha,      'XV VIII XIV XXVI XVIII VII XII XXIV XXIV VIII IV I XVIII X V V XII IX XIV VII');
+lib.print(79, ' ', x => x, 'todo');
+lib.print(80, 'v', lib.qwert2alpha,      '88 3 222 4 111 1 666 5 5 11 55 3 666 3 4 11');
 

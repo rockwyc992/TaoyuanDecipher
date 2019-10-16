@@ -4,6 +4,50 @@ Answer for Taoyuan Decipher Challenge
 This is answer for Ingress Anomaly Decipher Challenge at 2019/10/12 in Taoyuan.
 Origin puzzle is [here](https://storage.googleapis.com/ingress-internal-event-data/nemesis-umbra/decipher/taoyuantaiwan/taoyuantaiwan-minicipher-listing_90ceb3b4-6beb-585a-a01b-06d5649d4c8d.html)
 
+## Category
+
+1. Index
+`5, 19, 23, 24, 25, 42, 47, 60`
+
+2. ROT13
+`8, 10, 12, 15, 20, 26, 37, 56, 62, 66`
+
+3. Roman
+`0, 6, 13, 21, 22, 33, 53, 77, 78`
+
+4. Phone
+`1, 2, 4, 11, 14, 18, 43, 54, 55, 69`
+
+5. QWERT
+`7, 17, 52, 58, 70, 80`
+
+6. [GL Dancing Men](https://fonts2u.com/gl-dancingmen.font)
+`3, 16, 27, 30, 35, 49, 50, 59, 81`
+
+7. [PigPen](https://www.wfonts.com/font/pigpen-cipher)
+`9, 31, 36, 39, 46, 64, 72, 75, 76`
+
+8. Hand Sign
+`28, 29, 32, 34, 38, 40, 41, 51, 57, 63, 67, 68, 71, 74`
+
+9. Square
+`44, 45, 48, 61, 65, 73, 79`
+
+10. Maze
+`83, 84, 86, 88, 91, 92, 93, 98, 99`
+
+11. Color
+`89, 90, 96, 97`
+
+12. Bingo
+`82, 85, 87, 95`
+
+13. Story
+`94`
+
+14. Glphy
+`100 ~ 149`
+
 ## Answer
 this answer is generate by execute `node solve.js` command with [Node.js](https://nodejs.org/en/)
 
@@ -80,6 +124,16 @@ this answer is generate by execute `node solve.js` command with [Node.js](https:
 | 68 | todo       |               | todo                    |   |
 | 69 | hpflxosuje | insane        | hpflxosujeinsane        | v |
 | 70 | xdpldsjgux | galaxies      | xdpldsjguxgalaxies      | v |
+| 71 | todo       |               | todo                    |   |
+| 72 | todo       |               | todo                    |   |
+| 73 | todo       |               | todo                    |   |
+| 74 | todo       |               | todo                    |   |
+| 75 | todo       |               | todo                    |   |
+| 76 | todo       |               | todo                    |   |
+| 77 | mevzfestvo | lofty         | mevzfestvolofty         | v |
+| 78 | ohnzrglxxh | darjeeling    | ohnzrglxxhdarjeeling    | v |
+| 79 | todo       |               | todo                    |   |
+| 80 | kexrzqntta | genera        | kexrzqnttagenera        | v |
 
 
 
